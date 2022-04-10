@@ -18,7 +18,7 @@
   ## Description
   This project is a web application that uses GitHub's API to search for projects with open issues and pull requests. Users can filter search results by primary language.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/git-it-done/blob/main/assets/demo.png" />
 
   ## Installation Instructions
   N/A
